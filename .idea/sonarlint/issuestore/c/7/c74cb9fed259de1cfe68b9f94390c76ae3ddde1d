@@ -1,0 +1,17 @@
+
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹”ù÷ûÿÿÿÿ8Û»±å­1
+
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "cart1".(½¼Éøÿÿÿÿ8â»±å­1
+D
+java:S5411"(Use a primitive boolean expression here.(ÅúĞ,8ò»±å­1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã•Áßúÿÿÿÿ8ø»±å­1
+H
+java:S1172$"+Remove this unused method parameter "cart".(İŞ€¤8®½±å­1
+I
+java:S1172B",Remove this unused method parameter "email".(‚†¸ù8Á½±å­1
+H
+java:S1168C"+Return an empty collection instead of null.(¥¹ï8Ï½±å­1
+R
+java:S1172F"5Remove these unused method parameters "start", "end".(ÎÇÑº8Ó½±å­1
+H
+java:S1168G"+Return an empty collection instead of null.(¥¹ï8×½±å­1

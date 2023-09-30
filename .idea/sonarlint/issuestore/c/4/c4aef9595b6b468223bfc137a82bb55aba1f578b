@@ -1,0 +1,4 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³à®õ
+Z
+java:S1128"?Remove this unused import 'jakarta.persistence.criteria.Order'.(Äï¶¹ýÿÿÿÿ
